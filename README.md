@@ -13,22 +13,22 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 # Register No:
 # Developed By:
 # 1-Norm of a Matrix
-```
+
 Program to find 1-norm of a matrix.
 Developed by: Thanushree
 RegisterNumber: 24900590
-
+```
 import numpy as np
 arr=np.array(eval(input()))
 result=np.linalg.norm(arr,1)
 print(result)
 ```
 # 2-Norm of a Matrix
-```
+
 Program to find 2-norm of a matrix.
 Developed by: Thanushree
 RegisterNumber: 24900590
-
+```
 import numpy as np
 arr=np.array(eval(input()))
 result=np.linalg.norm(arr,2)
@@ -36,6 +36,9 @@ print("{:.2f}".format(result))
 ```
 
 # Infinity Norm of a Matrix
+Program to find infinity norm of a matrix.
+Developed by: Thanushree
+RegisterNumber: 24900590
 ```
 import numpy as np
 arr=np.array(eval(input()))
