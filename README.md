@@ -44,21 +44,17 @@ print("{:.2f}".format(result))
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>
-<br>
-<br>
+
 ![Alt text](<Screenshot from 2024-12-11 17-53-53.png>)
 
 ### 2-Norm of a Matrix
-<br>
-<br>
-<br>
+
 ![Alt text](<Screenshot from 2024-12-11 17-54-04.png>)
 
 ### Infinity Norm of a Matrix
-<br>
-<br>
-<br>
+
 ![Alt text](<Screenshot from 2024-12-11 17-54-16.png>)
+
 ## Result
+
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
